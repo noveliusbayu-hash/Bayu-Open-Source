@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Spark",
+  "description": "An elegant, cosmic-themed companion that generates personalized daily inspirations, prompts, and sparks of wisdom powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

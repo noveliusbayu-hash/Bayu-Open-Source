@@ -1,0 +1,10 @@
+{
+  "name": "cosmic-spark",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Android build'",
+    "compile": "echo 'Android compile'",
+    "test": "echo 'Android test'",
+    "lint": "echo 'Android lint'"
+  }
+}
